@@ -4,8 +4,7 @@
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=30>
 </p>
 <h1 align="center">
-Hi,
-My name is ImSoSx</h1>
+Hi!</h1>
 <p align="center">Back-end developer</p>
 
 ------------------
@@ -25,15 +24,6 @@ src="https://img.shields.io/github/followers/ImSoSx?logo=github&style=for-the-ba
 #### Languages
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" loading="lazy" height="30" alt="HTML5" style="border-radius: 0.375rem;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" loading="lazy"  height="30" alt="JavaScript" style="border-radius: 0.375rem;" />
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" loading="lazy"  height="30" alt="CSS" style="border-radius: 0.375rem;" />
-</a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" loading="lazy" height="30" alt="PHP" style="border-radius: 0.375rem;" />
 </a>
@@ -73,14 +63,3 @@ src="https://img.shields.io/github/followers/ImSoSx?logo=github&style=for-the-ba
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" loading="lazy" height="30" style="border-radius: 0.375rem;"/>
 </a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ImSoSx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<h3 align="center">My GitHub Stats</h3>
-
-<a href="http://www.github.com/ImSoSx"><img src="https://github-readme-stats.vercel.app/api?username=ImSoSx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ImSoSx's GitHub stats" /></a>
-
-<a href="https://github.com/ImSoSx" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSoSx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
