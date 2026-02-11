@@ -11,10 +11,6 @@ Hi!</h1>
 <p align="center">
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=var+always+%3D+'Learning';public+string+always+%3D+%22Learning%22" alt="Typing SVG"/></a>
 </p>
-<p align="center">
-<a href="https://www.github.com/VoidHandler" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ImSoSx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-</p>
 
 * 🌍  I'm based in Chile
 * 🧠  I'm currently practice my knowledge
